@@ -1,5 +1,3 @@
-function randNum() {
-  return Math.random();
-}
+const randNum = () => Math.random();
 
 module.exports = randNum;
