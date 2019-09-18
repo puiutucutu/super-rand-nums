@@ -6,7 +6,7 @@
 $ npm install super-rand-nums
 ```
 
-## Use
+## Usage
 
 ```js
 import { randNum } from "super-rand-nums";
