@@ -9,7 +9,8 @@
   },
   "scripts": {
     "build": "babel src -d dist",
-    "prepublish": "npm run build"
+    "prepublish": "npm run build",
+    "release": "np"
   },
   "babel": {
     "presets": [
