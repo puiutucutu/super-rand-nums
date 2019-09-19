@@ -2,7 +2,7 @@
   "name": "super-rand-nums",
   "version": "1.0.1",
   "description": "",
-  "main": "./dist/index.js",
+  "main": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/puiutucutu/super-rand-nums.git"
